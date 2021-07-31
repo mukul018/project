@@ -1,0 +1,67 @@
+body
+{
+ margin: 0px;
+ padding: 0px;
+ background-color: #f4f4f4;
+}
+#header
+{
+    width: 100%;
+    height: 20vh;
+
+}
+#title
+{
+    text-align: center;
+    font-family: sans-serif;
+    font-weight: 700;
+    padding-top: 2.5%;
+}
+#lol
+{
+    text-align: center;
+    font-family: sans-serif;
+
+}
+#img-div
+{
+    height: auto;
+    margin: 1%;
+    background-color: white;  
+
+}
+#image
+{
+    margin: auto;
+    display: block;
+    padding: 1%;
+
+}
+#img-caption
+{
+    text-align: center;
+    padding-bottom: 1%;
+    font-style: italic;
+}
+#tribute-info
+{
+    font-family: sans-serif;
+    height: auto;
+    width: 50vw;
+    margin: auto;
+}
+#headline
+{
+    text-align: center;
+}
+
+ul {
+    max-width: 550px;
+    margin: 0 auto 50px auto;
+    text-align: left;
+    line-height: 1.6;
+  }
+  
+  li {
+    margin: 16px 0;
+  }
